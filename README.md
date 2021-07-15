@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hey there, I am Lucas Zane</h1>
+<h3 align="center">I am a technology lover, always trying to learn new things. I love working with C# (.Net Core) and Python (my two prefered languages) and I am graduated in major Science&Technology and Computer Science at Federal University of ABC.</h3>
 
 <!--
 **lucaszane/lucaszane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
